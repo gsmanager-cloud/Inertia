@@ -27,7 +27,7 @@
         }
     },
     "require": {
-        "php": "^8.4",
+        "php": "^8.2",
         "ext-json": "*",
         "gsmanager-cloud/framework": "v1",
         "symfony/console": "^6.2|^7.0"
